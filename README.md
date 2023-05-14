@@ -1,2 +1,2 @@
 # gec-stroe
-SpringBoot練習用
+Springboot練習用
